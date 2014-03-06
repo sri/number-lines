@@ -1,0 +1,15 @@
+'context-menu':
+  '.overlayer':
+      'Number lines': 'number-lines:number'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Number Lines'
+      'submenu': [
+        { 'label': 'Number', 'command': 'number-lines:number' }
+      ]
+    ]
+  }
+]

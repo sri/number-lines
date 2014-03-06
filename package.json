@@ -1,0 +1,15 @@
+{
+  "name": "number-lines",
+  "main": "./lib/number-lines",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A short description of your package",
+  "activationEvents": ["number-lines:number"],
+  "repository": "https://github.com/atom/number-lines",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
